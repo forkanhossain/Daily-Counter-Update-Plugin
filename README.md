@@ -1,4 +1,4 @@
-#Features
+# Features
 Daily Increment: Automatically increments the counter by 1 each day.
 Animated Display: JavaScript-based animated counter display for a smooth, engaging user experience.
 Shortcode Support: Display the counter anywhere on your site using the [daily_counter] shortcode.
